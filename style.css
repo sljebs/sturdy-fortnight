@@ -1,0 +1,26 @@
+.background{
+    width: 1366px;
+    height: 768px;
+    background-color: #a855f7;
+}
+
+.faq-card{
+    width: 700px;
+    height: 450px;
+    background-color: white;
+}
+
+h1{
+    font-size: 48px;
+    color: #1d1e4c;
+}
+
+summary{
+    font-size: 20px;
+    color: #1d1e4c;
+}
+
+p{
+    font-size: 14px;
+    color: #8f90a6;
+}
