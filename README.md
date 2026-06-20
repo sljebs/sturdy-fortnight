@@ -1,2 +1,2 @@
-# sturdy-fortnight
+# salome jebirashvili
 lesson 4
